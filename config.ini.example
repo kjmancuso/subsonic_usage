@@ -1,0 +1,10 @@
+[subsonic]
+url = https://localhost:4443
+user = foo
+pass = bar
+
+[influx]
+host = 127.0.0.1
+user = influx
+pass = password
+database = subsonic_usage
